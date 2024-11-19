@@ -1,0 +1,23 @@
+img{
+    width: 100%;
+}
+
+#flexbox img{
+    width: 20vw;
+}
+
+#flexbox{
+    display: flex;
+    overflow-x: scroll;
+    gap: 5px;
+    padding: 5px;
+}
+
+body{
+    text-align: center;
+}
+
+h1{
+    background: linear-gradient(blue,skyblue,white);
+    padding: 20px;
+}
